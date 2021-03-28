@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1616596775 source:c:\users\grego\onedrive\Área de trabalho\trabalho - univali\atividade em codeblocks\calculadora_bases\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+
+1616629155 source:c:\users\thyago\documents\calculadora_bases\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+
+1616633468 source:c:\users\thyago\documents\univali\3 semestre\how 1\calculadora_bases\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+
